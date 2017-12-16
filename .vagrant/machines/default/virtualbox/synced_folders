@@ -1,0 +1,1 @@
+{"virtualbox":{"/container":{"guestpath":"/container","hostpath":"C:/Users/fuchs/Documents/dev/servers/ubuntu_trusty_dev/container","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/fuchs/Documents/dev/servers/ubuntu_trusty_dev","disabled":false,"__vagrantfile":true}}}
